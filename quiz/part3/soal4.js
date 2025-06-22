@@ -8,7 +8,6 @@ function tentukanDeretGeometri(arr) {
   return true;
 }
 
-
 // TEST CASES
 console.log(tentukanDeretGeometri([1, 3, 9, 27, 81])); // true
 console.log(tentukanDeretGeometri([2, 4, 8, 16, 32])); // true
